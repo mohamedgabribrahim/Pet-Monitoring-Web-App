@@ -3,7 +3,8 @@
 - Deployed App Link: http://protected-shore-46000.herokuapp.com
 - You can access the web app from 2 computers by logging in into each one seperately using the usernames and passwords below.
 > Username1: gabr 
-> Password1: gabr1234 
+> Password1: gabr1234
+
 >Username2: mohamed
 >Password2: mohamed1234
 - You will be directed to the video stream page
